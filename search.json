@@ -21,97 +21,6 @@
     "text": "Professional Activities\n\nStatistical Journal Reviewer\n\nStatistics in Medicine - September 2024\n\nCanadian Journal of Statistics - February 2025"
   },
   {
-    "objectID": "teaching/inet2013.html#instructors",
-    "href": "teaching/inet2013.html#instructors",
-    "title": "INET 2013",
-    "section": "Instructors",
-    "text": "Instructors\nDaniel McDonald\nDepartment of Statistics\nIndiana University, Bloomington\nDarren Homrighausen\nDepartment of Statistics\nColorado State Univeristy"
-  },
-  {
-    "objectID": "teaching/inet2013.html#course-description",
-    "href": "teaching/inet2013.html#course-description",
-    "title": "INET 2013",
-    "section": "Course description",
-    "text": "Course description\nLargely unnoticed by economists, over the last three decades statisticians and computer scientists have developed sophisticated prediction procedures and methods of model selection and forecast evaluation under the rubric of statistical learning theory. These methods have revolutionized pattern recognition and artificial intelligence, and the modern industry of data mining (without the pejorative connotation) would not exist without it.\nIn this short course, we will investigate the connections between modern statistical methodology and standard techniques which are more common in economics and social science. The goal is to develop an understanding for the circumstances under which different statistical methods are appropriate, how methods behave when the model for the data generating process is incorrect, and why some methods can adapt while others cannot. We will focus especially on selecting models with good predictive performance and on the relationships between model complexity, statistical estimation, and the amount of data used to estimate the model.\nThe starting point for statistical learning is the notion of predictive risk and the tradeoff between bias and variance. With this tradeoff in mind, we will investigate the importance of assessing models using training and test data, the benefits of regularization, and the necessity of selecting tuning parameters carefully. We will illustrate each of these issues with some standard econometric procedures applied to financial and economic datasets while at the same time, introducing some potentially new procedures which may be useful in your own research."
-  },
-  {
-    "objectID": "teaching/inet2013.html#schedule-of-topics",
-    "href": "teaching/inet2013.html#schedule-of-topics",
-    "title": "INET 2013",
-    "section": "Schedule of topics",
-    "text": "Schedule of topics\n\nThe predictive viewpoint\nThe bias-variance tradeoff\nEvaluating predictions and estimators\nThe benefits of regularization\nModel selection\nChoosing tuning parameters\nApplication: BVARs and DSGEs\nTools for classification\nApplication: Predicting recessions\nCollaborative filtering and the Netflix prize\nDimension reduction"
-  },
-  {
-    "objectID": "teaching/inet2013.html#suggested-preparation",
-    "href": "teaching/inet2013.html#suggested-preparation",
-    "title": "INET 2013",
-    "section": "Suggested preparation",
-    "text": "Suggested preparation\nIn order to be best prepared for this course, we suggest that you brush up on your econometrics, especially the content about probability. Most useful will be to remind your self about expected values and variance, convergence in probability and consistency, maximum likelihood, ordinary least squares and some time series topics like autoregressive models. Also, remind yourself what a dynamic stochastic general equilibrium model is (you probably know more about this than we do, but perhaps not). Less useful are GMM techniques and cointegration.\nBefore coming to class, we suggest that you take a look at the first three (3) chapters of Cosma Shalizi’s preprint Advanced Data Analysis from an Elementary Point of View. These chapters will serve as a nice introduction to the materials we intend to cover. The rest of the book is great too if you are feeling more ambitious/motivated."
-  },
-  {
-    "objectID": "teaching/inet2013.html#preliminary-exercises",
-    "href": "teaching/inet2013.html#preliminary-exercises",
-    "title": "INET 2013",
-    "section": "Preliminary exercises",
-    "text": "Preliminary exercises\nWe will make a handful of exercises available to try before you come to class. These are mainly for review and little else. They will certainly not be graded, but spending a few hours trying them may help you come to class more prepared. The exercises are here."
-  },
-  {
-    "objectID": "teaching/inet2013.html#data-analysis",
-    "href": "teaching/inet2013.html#data-analysis",
-    "title": "INET 2013",
-    "section": "Data analysis",
-    "text": "Data analysis\nAll of the data analysis examples we use in class will be done in the open source programming language R. R is extremely powerful and easily extensible. We will try to make all of our code available on the website so that you may experiment with it. The software is available for free on CRAN. An official introduction is available there, and many other introductions are available on the web. See for example here. Feel free to download and play around with R, but experience and/or mastery of computer programming is not necessary."
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching & Mentorship",
-    "section": "",
-    "text": "Department of Statistics and Actuarial Science, University of Waterloo\n\nGuest Lecturer for STAT 220: Probability for Non-Specialists\nLed tutorials and provided support for courses in statistics courses"
-  },
-  {
-    "objectID": "teaching/index.html#lecturing",
-    "href": "teaching/index.html#lecturing",
-    "title": "Teaching & Mentorship",
-    "section": "",
-    "text": "Department of Statistics and Actuarial Science, University of Waterloo\n\nGuest Lecturer for STAT 220: Probability for Non-Specialists\nLed tutorials and provided support for courses in statistics courses"
-  },
-  {
-    "objectID": "teaching/index.html#mentoring",
-    "href": "teaching/index.html#mentoring",
-    "title": "Teaching & Mentorship",
-    "section": "Mentoring",
-    "text": "Mentoring\n\nMentor, Directed Reading Program (DRP), University of Waterloo\nJan 2024 – Apr 2025\nMentored three reading projects for undergraduate students focusing on statistics and machine learning:\n\nWinter 2024 — Introduction to Survival Analysis\n\nFall 2024 — Introduction to Survival Analysis\n\nWinter 2025 — Predictive Models in Healthcare\n\nEach project included weekly meetings, guided reading, discussions, and individualized mentorship.\nLearn more about\n\nWomen in Mathematics at the University of Waterloo\n\nWomen in Mathematics Directed Reading Program (DRP)\n\n\n\n\n\nGraduate Student Representative, Women in Mathematics Committee\nSupported outreach and community-building efforts through the WiM committee.\nPromoted DRP activities, helped develop mentor–mentee resources.\n\n\nCo-organizer, Navigating Your Career 2025 Conference\nSept 2024 – Mar 2025\nCo-organized a professional-development conference supporting women in mathematics and related fields.\nLearn more about Navigating Your Career 2025 Conference organized by Women in Mathematics - and stay tuned about their new events!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Xianwei Li",
-    "section": "",
-    "text": "Hi, I’m Xianwei Li - welcome to my page!\nI recently completed my PhD in Statistics (Biostatistics) at the University of Waterloo.\nMy doctoral supervisors were Prof. Richard J. Cook and Prof. Liqun Diao.\nMy research focuses on variable selection and prediction for multistate processes, with applications in biomedical studies."
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research focuses on variable selection and prediction with multistate processes under complex observation schemes. Applications includes identifying key risk factors from a large number of candidate variables.\nMy work includes both methodological contributions, where I develop statistical tools for multistate and survival data, and applied collaborations with clinician scientists to support clinical research. Feel free to check out my work on Google Scholar."
-  },
-  {
-    "objectID": "research/index.html#recent-papers-and-preprints",
-    "href": "research/index.html#recent-papers-and-preprints",
-    "title": "Research",
-    "section": "Recent papers and preprints",
-    "text": "Recent papers and preprints\n\nVariable Selection for Progressive Multistate Processes Under Intermittent Observation\n\nLi, X, Cook, RJ, Diao, L\n\nStatistics in Medicine, 44, e70023, 2025\n\n\n\n journal\n\n code\n\n\n\n\nRegression Trees for Interval-Censored Failure Time Data Based on Censoring Unbiased Transformations and Pseudo-Observations\n\nYang, C, Li, X, Diao, L, Cook, RJ\n\nCanadian Journal of Statistics, 52, e11807, 2024\n\n\n\n journal\n\n\n\n\nAssociation of Higher Levels of High-Sensitivity C-Reactive Protein with Future Development of Psoriatic Arthritis in Psoriasis: A Prospective Cohort Study\n\nEder, L, Li, X, Chandran, V, Rosen, CF, et al. \n\nArthritis Care & Research, 2025\n\n\n\n journal\n\n\n\n\nDeep Cellular Immune Profiling in Psoriatic Arthritis Correlates with Imaging Phenotypes and Response to Targeted Advanced Therapy\n\nEder, L, Li, X, Thib, S, Ganatra, D, et al. \n\nArthritis & Rheumatology, 75, 3358–3360, 2023\n\n\n\n journal\n\n\n\n\nSex Differences in Serum Proteomic Profiles in Psoriatic Arthritis\n\nDang, S, Li, X, Diao, L, Piguet, V, et al. \n\nRheumatology, 64, 5911–5920, 2025\n\n\n\n journal\n\n\n\n\nCD3 Immune Cell Endotypes are Associated with PsA Disease Phenotype and Response to Advanced Therapy: An Integrated Mass Cytometry and Proteomics Cohort Study\n\nEder, L, Dang, S, Caucheteux, SM, Li, X, et al. \n\nAnnals of the Rheumatic Diseases, 2025\n\n\n\n journal"
-  },
-  {
-    "objectID": "research/all-pubs.html",
-    "href": "research/all-pubs.html",
-    "title": "All papers and preprints",
-    "section": "",
-    "text": "Variable Selection for Progressive Multistate Processes Under Intermittent Observation\n\nLi, X, Cook, RJ, Diao, L\n\nStatistics in Medicine, 44, e70023, 2025\n\n\n\n journal\n\n\n\n\nAssociation of Higher Levels of High-Sensitivity C-Reactive Protein with Future Development of Psoriatic Arthritis in Psoriasis: A Prospective Cohort Study\n\nEder, L, Li, X, Chandran, V, Rosen, CF, et al. \n\nArthritis Care & Research, 2025\n\n\n\n journal\n\n\n\n\nSex Differences in Serum Proteomic Profiles in Psoriatic Arthritis\n\nDang, S, Li, X, Diao, L, Piguet, V, et al. \n\nRheumatology, 64, 5911–5920, 2025\n\n\n\n journal\n\n\n\n\nCD3 Immune Cell Endotypes are Associated with PsA Disease Phenotype and Response to Advanced Therapy: An Integrated Mass Cytometry and Proteomics Cohort Study\n\nEder, L, Dang, S, Caucheteux, SM, Li, X, et al. \n\nAnnals of the Rheumatic Diseases, 2025\n\n\n\n journal\n\n\n\n\nRegression Trees for Interval-Censored Failure Time Data Based on Censoring Unbiased Transformations and Pseudo-Observations\n\nYang, C, Li, X, Diao, L, Cook, RJ\n\nCanadian Journal of Statistics, 52, e11807, 2024\n\n\n\n journal\n\n\n\n\nDeep Cellular Immune Profiling in Psoriatic Arthritis Correlates with Imaging Phenotypes and Response to Targeted Advanced Therapy\n\nEder, L, Li, X, Thib, S, Ganatra, D, et al. \n\nArthritis & Rheumatology, 75, 3358–3360, 2023\n\n\n\n journal"
-  },
-  {
     "objectID": "other/index.html",
     "href": "other/index.html",
     "title": "Additional information",
@@ -133,94 +42,52 @@
     "text": "News\nMy non-academic website is under construction - stay tuned for updates!"
   },
   {
-    "objectID": "teaching/inet2015.html#instructor",
-    "href": "teaching/inet2015.html#instructor",
-    "title": "INET 2015",
-    "section": "Instructor",
-    "text": "Instructor\nDaniel McDonald\nDepartment of Statistics\nIndiana University, Bloomington"
-  },
-  {
-    "objectID": "teaching/inet2015.html#course-description",
-    "href": "teaching/inet2015.html#course-description",
-    "title": "INET 2015",
-    "section": "Course description",
-    "text": "Course description\nLargely unnoticed by economists, over the last three decades statisticians and computer scientists have developed sophisticated prediction procedures and methods of model selection and forecast evaluation under the rubric of statistical learning theory. These methods have revolutionized pattern recognition and artificial intelligence, and the modern industry of data mining (without the pejorative connotation) would not exist without it.\nIn this short course, we will investigate the connections between modern statistical methodology and standard techniques which are more common in economics and social science. The goal is to develop an understanding for the circumstances under which different statistical methods are appropriate, how methods behave when the model for the data generating process is incorrect, and why some methods can adapt while others cannot. We will focus especially on selecting models with good predictive performance and on the relationships between model complexity, statistical estimation, and the amount of data used to estimate the model.\nThe starting point for statistical learning is the notion of predictive risk and the tradeoff between bias and variance. With this tradeoff in mind, we will investigate the importance of assessing models using training and test data, the benefits of regularization, and the necessity of selecting tuning parameters carefully. We will illustrate each of these issues with some standard econometric procedures applied to financial and economic datasets while at the same time, introducing some potentially new procedures which may be useful in your own research."
-  },
-  {
-    "objectID": "teaching/inet2015.html#schedule-of-topics",
-    "href": "teaching/inet2015.html#schedule-of-topics",
-    "title": "INET 2015",
-    "section": "Schedule of topics",
-    "text": "Schedule of topics\n\nThe predictive viewpoint\nThe bias-variance tradeoff\nEvaluating predictions and estimators\nThe benefits of regularization\nModel selection\nChoosing tuning parameters\nApplication: BVARs and DSGEs\nTools for classification\nApplication: Predicting recessions\nCollaborative filtering and the Netflix prize\nDimension reduction"
-  },
-  {
-    "objectID": "teaching/inet2015.html#suggested-preparation",
-    "href": "teaching/inet2015.html#suggested-preparation",
-    "title": "INET 2015",
-    "section": "Suggested preparation",
-    "text": "Suggested preparation\nIn order to be best prepared for this course, we suggest that you brush up on your econometrics, especially the content about probability. Most useful will be to remind your self about expected values and variance, convergence in probability and consistency, maximum likelihood, ordinary least squares and some time series topics like autoregressive models. Also, remind yourself what a dynamic stochastic general equilibrium model is (you probably know more about this than we do, but perhaps not). Less useful are GMM techniques and cointegration.\nBefore coming to class, we suggest that you take a look at the first three (3) chapters of Cosma Shalizi’s preprint Advanced Data Analysis from an Elementary Point of View. These chapters will serve as a nice introduction to the materials we intend to cover. The rest of the book is great too if you are feeling more ambitious/motivated."
-  },
-  {
-    "objectID": "teaching/inet2015.html#preliminary-exercises",
-    "href": "teaching/inet2015.html#preliminary-exercises",
-    "title": "INET 2015",
-    "section": "Preliminary exercises",
-    "text": "Preliminary exercises\nWe will make a handful of exercises available to try before you come to class. These are mainly for review and little else. They will certainly not be graded, but spending a few hours trying them may help you come to class more prepared. The exercises are here."
-  },
-  {
-    "objectID": "teaching/inet2015.html#data-analysis",
-    "href": "teaching/inet2015.html#data-analysis",
-    "title": "INET 2015",
-    "section": "Data analysis",
-    "text": "Data analysis\nAll of the data analysis examples we use in class will be done in the open source programming language R. R is extremely powerful and easily extensible. We will try to make all of our code available on the website so that you may experiment with it. The software is available for free on CRAN. An official introduction is available there, and many other introductions are available on the web. See for example here. Feel free to download and play around with R, but experience and/or mastery of computer programming is not necessary."
-  },
-  {
-    "objectID": "teaching/stat548.html",
-    "href": "teaching/stat548.html",
-    "title": "Stat 548 - Qualifying Papers",
+    "objectID": "research/all-pubs.html",
+    "href": "research/all-pubs.html",
+    "title": "All papers and preprints",
     "section": "",
-    "text": "Last updated: 24 September 2025"
+    "text": "Variable Selection for Progressive Multistate Processes Under Intermittent Observation\n\nLi, X, Cook, RJ, Diao, L\n\nStatistics in Medicine, 44, e70023, 2025\n\n\n\n journal\n\n\n\n\nAssociation of Higher Levels of High-Sensitivity C-Reactive Protein with Future Development of Psoriatic Arthritis in Psoriasis: A Prospective Cohort Study\n\nEder, L, Li, X, Chandran, V, Rosen, CF, et al. \n\nArthritis Care & Research, 2025\n\n\n\n journal\n\n\n\n\nSex Differences in Serum Proteomic Profiles in Psoriatic Arthritis\n\nDang, S, Li, X, Diao, L, Piguet, V, et al. \n\nRheumatology, 64, 5911–5920, 2025\n\n\n\n journal\n\n\n\n\nCD3 Immune Cell Endotypes are Associated with PsA Disease Phenotype and Response to Advanced Therapy: An Integrated Mass Cytometry and Proteomics Cohort Study\n\nEder, L, Dang, S, Caucheteux, SM, Li, X, et al. \n\nAnnals of the Rheumatic Diseases, 2025\n\n\n\n journal\n\n\n\n\nRegression Trees for Interval-Censored Failure Time Data Based on Censoring Unbiased Transformations and Pseudo-Observations\n\nYang, C, Li, X, Diao, L, Cook, RJ\n\nCanadian Journal of Statistics, 52, e11807, 2024\n\n\n\n journal\n\n\n\n\nDeep Cellular Immune Profiling in Psoriatic Arthritis Correlates with Imaging Phenotypes and Response to Targeted Advanced Therapy\n\nEder, L, Li, X, Thib, S, Ganatra, D, et al. \n\nArthritis & Rheumatology, 75, 3358–3360, 2023\n\n\n\n journal"
   },
   {
-    "objectID": "teaching/stat548.html#choosing-a-paper",
-    "href": "teaching/stat548.html#choosing-a-paper",
-    "title": "Stat 548 - Qualifying Papers",
-    "section": "Choosing a paper",
-    "text": "Choosing a paper\nAt the end of this document is a list of papers and project ideas that I am interested in supervising as Qualifying Papers (QPs). I am happy to discuss any other paper that you are interested in and think might be appropriate. I am generally interested in theoretical and methodological aspects of statistics and machine learning, especially those that relate to regularization, optimization, model selection, and time series forecasting."
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on variable selection and prediction with multistate processes under complex observation schemes. Applications includes identifying key risk factors from a large number of candidate variables.\nMy work includes both methodological contributions, where I develop statistical tools for multistate and survival data, and applied collaborations with clinician scientists to support clinical research. Feel free to check out my work on Google Scholar."
   },
   {
-    "objectID": "teaching/stat548.html#expectations",
-    "href": "teaching/stat548.html#expectations",
-    "title": "Stat 548 - Qualifying Papers",
-    "section": "Expectations",
-    "text": "Expectations\nIf you are interested in doing a QP with me, the first step is to email me to schedule a one-on-one meeting. Please use the words “Qualifying Paper” in the subject line of your email. At our first meeting, please be prepared to discuss:\n\nYour background.\nYour long-term research interests (it’s okay if these are not yet well-defined).\nWhy you are interested in the particular paper/project.\nWhen you will submit your report (typically about four-six weeks after we meet).\nThe details of the QP project and report.\nAny concerns you may have."
+    "objectID": "research/index.html#recent-papers-and-preprints",
+    "href": "research/index.html#recent-papers-and-preprints",
+    "title": "Research",
+    "section": "Recent papers and preprints",
+    "text": "Recent papers and preprints\n\nVariable Selection for Progressive Multistate Processes Under Intermittent Observation\n\nLi, X, Cook, RJ, Diao, L\n\nStatistics in Medicine, 44, e70023, 2025\n\n\n\n journal\n\n code\n\n\n\n\nRegression Trees for Interval-Censored Failure Time Data Based on Censoring Unbiased Transformations and Pseudo-Observations\n\nYang, C, Li, X, Diao, L, Cook, RJ\n\nCanadian Journal of Statistics, 52, e11807, 2024\n\n\n\n journal\n\n\n\n\nAssociation of Higher Levels of High-Sensitivity C-Reactive Protein with Future Development of Psoriatic Arthritis in Psoriasis: A Prospective Cohort Study\n\nEder, L, Li, X, Chandran, V, Rosen, CF, et al. \n\nArthritis Care & Research, 2025\n\n\n\n journal\n\n\n\n\nDeep Cellular Immune Profiling in Psoriatic Arthritis Correlates with Imaging Phenotypes and Response to Targeted Advanced Therapy\n\nEder, L, Li, X, Thib, S, Ganatra, D, et al. \n\nArthritis & Rheumatology, 75, 3358–3360, 2023\n\n\n\n journal\n\n\n\n\nSex Differences in Serum Proteomic Profiles in Psoriatic Arthritis\n\nDang, S, Li, X, Diao, L, Piguet, V, et al. \n\nRheumatology, 64, 5911–5920, 2025\n\n\n\n journal\n\n\n\n\nCD3 Immune Cell Endotypes are Associated with PsA Disease Phenotype and Response to Advanced Therapy: An Integrated Mass Cytometry and Proteomics Cohort Study\n\nEder, L, Dang, S, Caucheteux, SM, Li, X, et al. \n\nAnnals of the Rheumatic Diseases, 2025\n\n\n\n journal"
   },
   {
-    "objectID": "teaching/stat548.html#report",
-    "href": "teaching/stat548.html#report",
-    "title": "Stat 548 - Qualifying Papers",
-    "section": "Report",
-    "text": "Report\nThe report should have the following structure:1\n\nSummary (~3 pages): The first section of the report should provide a summary of the paper and the problem(s) it addresses, including its relationship to any previous work, its major contributions (e.g., novel techniques, algorithmic developments, problem formulations, theoretical contributions), and any limitations or shortcomings (e.g., restrictive assumptions, computational constraints, flawed methodology). The aim of this section is for you to synthesize the findings of a body of work and clearly present the important points.\nMini-proposals for research projects: Each proposal should describe a research project that applies, extends, generalizes, adapts, or addresses shortcomings of the QP. Seemingly unrelated ideas inspired by the original QP are also fine. You may write more than one proposal, but you must write at least one. A proposal should concisely describe: the primary problem to be addressed; an approach (or multiple approaches) for addressing the problem; any technical or conceptual sub-problems; the potential impact of the project. You are not expected to pursue any of these projects (though we can talk more if you would like to). The aim of this section is to get you thinking creatively about research, and to begin developing the skills necessary for writing research proposals. Each proposal should be no more than 2 pages max.\nQP specific project results: Each potential QP listed below has a brief description of a related project. We will discuss the project in detail in our initial meeting, and we can meet again (as many times as necessary) before the report due date. Your grade will not be affected by how good the results look, whether your approach improves on past work, or whether you achieve the initial goal of the project. I will use this project to evaluate your research potential, which includes (among other aspects):\n\nclearly formulating a research question;\nsetting up a useful mathematical framework for the problem;\nthinking creatively and independently to develop a solution;\nrelating the problem to existing work, in other fields if necessary;\nbeing resourceful and asking questions when necessary;\nlearning from and moving past the inevitable setbacks;\nreformulating the research problem when necessary;\nimplementing new methods in code (when applicable);\nchoosing appropriate experiments and metrics;\ncommunicating and reflecting on progress, setbacks, and results;\nthinking of future research directions.\n\n\nThe report should be submitted as a GitHub repository based on the template here. The template includes a LaTeX style file that should be used for the report. (Detailed instructions for usage can be found in the repository’s README file.) Any experimental/numerical results should be reproducible. All code should be reusable, clearly commented/documented, and exist in the src/ folder of the same GitHub repository to which you give me access as a collaborator. Code can be in any language you wish, though my strong preference is for R or python."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Xianwei Li",
+    "section": "",
+    "text": "Hi, I’m Xianwei Li - welcome to my page!\nI recently completed my PhD in Statistics (Biostatistics) at the University of Waterloo.\nMy doctoral supervisors were Prof. Richard J. Cook and Prof. Liqun Diao.\nMy research focuses on variable selection and prediction for multistate processes, with applications in biomedical studies."
   },
   {
-    "objectID": "teaching/stat548.html#resources",
-    "href": "teaching/stat548.html#resources",
-    "title": "Stat 548 - Qualifying Papers",
-    "section": "Resources",
-    "text": "Resources\nSome resources on technical/mathematical writing:\n\nHarry Joe’s advice and writing resources for 548\nTrevor Campbell’s How to Explain Things talk\nKnuth, Larrabee, and Roberts on mathematical writing\nJenny Bryan’s Happy Git with R\nGetting started with Git: chapters 1 and 2 should be all you need for this report"
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching & Mentorship",
+    "section": "",
+    "text": "Department of Statistics and Actuarial Science, University of Waterloo\n\nGuest Lecturer for STAT 220: Probability for Non-Specialists\nLed tutorials and provided support for courses in statistics courses"
   },
   {
-    "objectID": "teaching/stat548.html#available-papers",
-    "href": "teaching/stat548.html#available-papers",
-    "title": "Stat 548 - Qualifying Papers",
-    "section": "Available papers",
-    "text": "Available papers\n\n\n\nAnderson (2001). An ensemble adjustment Kalman filter for data assimilation\nThemes: Time series, epidemiology.\nProject: Read this paper along with Shaman and Karspeck (2012), Pei, Cane, and Shaman (2019), or any additional follow-up work you find relevant. Describe carefully how the EAKF is used for disease models.\nParag, Thompson, Donnelly (2022). Are Epidemic Growth Rates More Informative than Reproduction Numbers?\nThemes: Time series, epidemiology.\nProject: Discuss how one might modify {rtestim} to estimate growth rates.\nJohnson, Tang, Tyszka, et al. (2025). Baseline nowcasting methods for handling delays in epidemiological data\nThemes: Time series, epidemiology, data revisioning, missing data.\nProject: Discuss alternative matrix completion and missing data methods for the revision triangle. Examine their impacts if possible."
+    "objectID": "teaching/index.html#lecturing",
+    "href": "teaching/index.html#lecturing",
+    "title": "Teaching & Mentorship",
+    "section": "",
+    "text": "Department of Statistics and Actuarial Science, University of Waterloo\n\nGuest Lecturer for STAT 220: Probability for Non-Specialists\nLed tutorials and provided support for courses in statistics courses"
   },
   {
-    "objectID": "teaching/stat548.html#footnotes",
-    "href": "teaching/stat548.html#footnotes",
-    "title": "Stat 548 - Qualifying Papers",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThanks to Trevor and Ben. I’m stealing most of this from them.↩︎"
+    "objectID": "teaching/index.html#mentoring",
+    "href": "teaching/index.html#mentoring",
+    "title": "Teaching & Mentorship",
+    "section": "Mentoring",
+    "text": "Mentoring\n\nMentor, Directed Reading Program (DRP), University of Waterloo\nJan 2024 – Apr 2025\nMentored three reading projects for undergraduate students focusing on statistics and machine learning:\n\nWinter 2024 — Introduction to Survival Analysis\n\nFall 2024 — Introduction to Survival Analysis\n\nWinter 2025 — Predictive Models in Healthcare\n\nEach project included weekly meetings, guided reading, discussions, and individualized mentorship.\nLearn more about\n\nWomen in Mathematics at the University of Waterloo\n\nWomen in Mathematics Directed Reading Program (DRP)\n\n\n\n\n\nGraduate Student Representative, Women in Mathematics Committee\nSupported outreach and community-building efforts through the WiM committee.\nPromoted DRP activities, helped develop mentor–mentee resources.\n\n\nCo-organizer, Navigating Your Career 2025: Canadian Celebration of Women in Academia and Industry conference\nSept 2024 – Mar 2025\nCo-organized a professional-development conference celebrating the achievements of women and gender minorities in STEM fields.\nLearn more about Navigating Your Career 2025 Conference organized by Women in Mathematics - and stay tuned about their new events!"
   }
 ]
