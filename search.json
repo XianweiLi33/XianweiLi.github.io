@@ -35,11 +35,11 @@
     "text": "This website is adapted from the Quarto template developed by Prof. Daniel J. McDonald. If you are interested in how it works, you can check out this page on his website for an introduction. His openly shared framework made it possible for me to build this site despite having no prior experience in web development.\nI would also like to thank my friend Laura Bumbulis for recommending these excellent resources to me."
   },
   {
-    "objectID": "other/index.html#news",
-    "href": "other/index.html#news",
+    "objectID": "other/index.html#interests",
+    "href": "other/index.html#interests",
     "title": "Additional information",
-    "section": "News",
-    "text": "News\nMy non-academic website is under construction - stay tuned for updates!"
+    "section": "Interests",
+    "text": "Interests\n\nCoaching\nI’m interested in both personal and group coaching. I’m energized by helping people truly see themselves and fully express their potential.\n\n\nMusic\nMusic has been such an important part of my life. It has a magical healing quality that helps me slip effortlessly into the here and now with a pure and simple joy. Nothing else has ever given me this feeling so easily.\nI have been playing the violin since I was 6. I occasionally play the piano and guitar as well. Here is a recent performance from the Orchestra @ University of Waterloo: the All-Beethoven Winter 2025 End-of-Term Concert"
   },
   {
     "objectID": "research/all-pubs.html",
@@ -65,9 +65,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Xianwei Li",
+    "title": "Xianwei Li (李弦薇)",
     "section": "",
-    "text": "Hi, I’m Xianwei Li - welcome to my page!\nI recently completed my PhD in Statistics (Biostatistics) at the University of Waterloo.\nMy doctoral supervisors were Prof. Richard J. Cook and Prof. Liqun Diao.\nMy research focuses on variable selection and prediction for multistate processes, with applications in biomedical studies."
+    "text": "Hi, I’m Xianwei Li 1 - welcome to my page!\nI recently completed my PhD in Statistics (Biostatistics) at the University of Waterloo.\nMy doctoral supervisors were Prof. Richard J. Cook and Prof. Liqun Diao.\nMy research focuses on variable selection and prediction for multistate processes, with applications in biomedical studies."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Xianwei Li (李弦薇)",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nMy given name comes from a Taoist term referring to “the subtle and profound mysteries of the universe.” My parents later adapted the characters to make it more poetic and now it carries the meanings of musical strings and a small graceful flower, symbolizing harmony and gentleness.↩︎"
   },
   {
     "objectID": "teaching/index.html",
